@@ -1,0 +1,8 @@
+1. Zapewnienie timeout w procesie 
+2. Rozbić klienta w zad 3 na podprocesy.
+3. Jawne rysowanie bramek.
+4. Odebranie komunikatu. 
+5. Automat to rola
+6. Ustruktalizować z poprawka na dwie kolumny z automatem i pracownikiem 
+7. Poprawić diagram stanów na stany i przepływy warunkowe
+8. Układ jest stabilny
